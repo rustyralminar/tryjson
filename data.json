@@ -1,7 +1,3 @@
-{
-"ID" : 1,
-"Title" : "Sample",
-"Descrip" : "Description",
-"Date" : "02-14-2022",
-"Checked" : "trues"
-}
+[{'Id':'1','Username':'Ray','FatherName':'Thompson'},  
+               {'Id':'2','Username':'Steve','FatherName':'Johnson'},
+               {'Id':'3','Username':'Albert','FatherName':'Einstein'}]
